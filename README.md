@@ -24,27 +24,16 @@ This project aims to predict whether a student will complete a course based on t
    git clone <URL>
 Navigate to the project directory:
 
-bash
-Копировать
-Редактировать
+
 cd <project_folder>
 Install the required libraries:
 
-bash
-Копировать
-Редактировать
+
 pip install -r requirements.txt
 Run the scripts to process data and train the model:
 
-bash
-Копировать
-Редактировать
+
 python main.py
+
 5. Demo
 As a result of the model's work, you can achieve a prediction accuracy of 88%, which allows for effective student segmentation and predicting their behavior. For students with a high probability of not completing the course, additional motivational materials or reminders about the importance of the course can be offered, increasing their chances of finishing the course.
-
-vbnet
-Копировать
-Редактировать
-
-You can copy and paste this directly into your `README.md` file. Let me know if you need further t
